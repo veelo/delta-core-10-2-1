@@ -1,0 +1,11 @@
+{
+	"name": "delta-core-10-2-1",
+	"authors": [
+		"Andre Pany"
+	],
+	"description": "Delphi brigde - Core",
+	"copyright": "Copyright © 2017, Andre Pany",
+	"license": "Boost Software License 1.0",
+	"targetType": "library",
+	"version": "0.0.1"
+}
