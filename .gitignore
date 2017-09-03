@@ -23,6 +23,9 @@ docs/
 # Code coverage
 *.lst
 
+# Delphi compiler-generated binaries (safe to delete)
+*.dcu
+
 # Delphi local files (user-specific info)
 *.local
 *.identcache
