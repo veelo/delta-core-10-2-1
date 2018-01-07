@@ -27,7 +27,7 @@ There are 2 scenarios Delta tries to achieve:
     shows how to write a wrapper component in D if the component is not already
     available.
 
-    <https://github.com/andre2007/delta-fmx-10-2-1/tree/master/examples/ttime>r
+    <https://github.com/andre2007/delta-fmx-10-2-1/tree/master/examples/ttimer>
 
      
 
